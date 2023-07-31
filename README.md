@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Olá eu Marcell Felipe de Paula Oliveira!
 
 
 🔭 Atualmente estou desenvolvendo e aprimorando minhas habilidades de Analista de dados, mas tenho planos de aprender mais a função de Engenheiro de Analytics<br>👯 Busco colaborar com projetos de análise exploratória de dados e de Business Intelligence<br>🌱 Também estou em processo de aprendizagem de Estatística, Machine Learning e DBT.<br>⚡
